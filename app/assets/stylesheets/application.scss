@@ -1,0 +1,44 @@
+ @import "materialize";
+$background-color: #FFFF66;
+$navbar-color: #CF5300;
+
+@mixin hidden(){
+  display: none;
+}
+.nav-wrapper{
+  background-color: $navbar-color;
+  font-weight: bold;
+  font-size: 18pt;
+}
+
+main{
+  flex: 1 0 auto;
+}
+
+body{
+  background-color: $background-color;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.landing-panel{
+  background: $navbar-color;
+  display: none;
+}
+.page-footer{
+  background-color: $navbar-color;
+  font-size: 14pt;
+}
+.piclink{
+  height: 50px;
+  width: 50px;
+}
+.bio-content{
+  background-color: $navbar-color;
+  @include hidden;
+}
+#under-construction{
+  margin-top: 50px;
+  margin-bottom: 150px;
+}
