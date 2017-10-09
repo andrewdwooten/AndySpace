@@ -9810,7 +9810,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 }
 /* line 8, /Users/andrewwooten/Desktop/Turing/Module_5/AndySpace/app/assets/stylesheets/application.scss */
 .nav-wrapper {
-  background-color: #CF5300;
+  background-color: #3090C7;
   font-weight: bold;
   font-size: 18pt;
 }
@@ -9822,7 +9822,7 @@ main {
 
 /* line 18, /Users/andrewwooten/Desktop/Turing/Module_5/AndySpace/app/assets/stylesheets/application.scss */
 body {
-  background-color: #FFFF66;
+  background-color: #98AFC7;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
@@ -9830,13 +9830,13 @@ body {
 
 /* line 25, /Users/andrewwooten/Desktop/Turing/Module_5/AndySpace/app/assets/stylesheets/application.scss */
 .landing-panel {
-  background: #CF5300;
+  background: #3090C7;
   display: none;
 }
 
 /* line 29, /Users/andrewwooten/Desktop/Turing/Module_5/AndySpace/app/assets/stylesheets/application.scss */
 .page-footer {
-  background-color: #CF5300;
+  background-color: #3090C7;
   font-size: 14pt;
 }
 
@@ -9848,7 +9848,7 @@ body {
 
 /* line 37, /Users/andrewwooten/Desktop/Turing/Module_5/AndySpace/app/assets/stylesheets/application.scss */
 .bio-content {
-  background-color: #CF5300;
+  background-color: #3090C7;
   display: none;
 }
 
